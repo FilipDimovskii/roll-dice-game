@@ -1,3 +1,3 @@
-#roll the dice
+Roll the dice game
 
-Rolling the dice untill you win (you can roll untill you hit 100 points, if you roll 1 then it's opponents turn to roll.If you don't want to roll or skip your turn just press HOLD).
+Rolling the dice until you win (you can roll until you reach 100 points, then it's your opponent's turn to roll). Simply press HOLD if you do not want to roll or skip your turn.
